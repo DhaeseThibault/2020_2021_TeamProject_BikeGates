@@ -1,0 +1,160 @@
+D:\Project2\BikeGates\BikeGates\bin\Debug\netstandard2.0\BikeGates.deps.json
+D:\Project2\BikeGates\BikeGates\bin\Debug\netstandard2.0\BikeGates.dll
+D:\Project2\BikeGates\BikeGates\bin\Debug\netstandard2.0\ref\BikeGates.dll
+D:\Project2\BikeGates\BikeGates\bin\Debug\netstandard2.0\BikeGates.pdb
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ChoiceGamemode.xaml.g.cs
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.AssemblyInfoInputs.cache
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.AssemblyInfo.cs
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.dll
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\ref\BikeGates.dll
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.pdb
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ChoicePlayer.xaml.g.cs
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ReviewPage.xaml.g.cs
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\LeaderboardParkour.xaml.g.cs
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\FirstPlace.xaml.g.cs
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\GameScreenParkour.xaml.g.cs
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndScreenParkour.xaml.g.cs
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\SecondPlace.xaml.g.cs
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ThirdPlace.xaml.g.cs
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\CountdownScreen.xaml.g.cs
+D:\Project2\BikeGates\BikeGates\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Project2\BikeGates\BikeGates\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.csproj.CoreCompileInputs.cache
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndLeaderboard.xaml.g.cs
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\GameScreenTimeRace.xaml.g.cs
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\StartScreenGamemode.xaml.g.cs
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndScreenTimeRace.xaml.g.cs
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\GameScreenSurvival.xaml.g.cs
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndScreenSurvival.xaml.g.cs
+D:\Project2\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.csprojAssemblyReference.cache
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\bin\Debug\netstandard2.0\BikeGates.deps.json
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\bin\Debug\netstandard2.0\BikeGates.dll
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\bin\Debug\netstandard2.0\ref\BikeGates.dll
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\bin\Debug\netstandard2.0\BikeGates.pdb
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.csprojAssemblyReference.cache
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ChoiceGamemode.xaml.g.cs
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ChoicePlayer.xaml.g.cs
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\CountdownScreen.xaml.g.cs
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndLeaderboard.xaml.g.cs
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndScreenParkour.xaml.g.cs
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndScreenSurvival.xaml.g.cs
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndScreenTimeRace.xaml.g.cs
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\FirstPlace.xaml.g.cs
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\GameScreenParkour.xaml.g.cs
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\GameScreenSurvival.xaml.g.cs
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\GameScreenTimeRace.xaml.g.cs
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\LeaderboardParkour.xaml.g.cs
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ReviewPage.xaml.g.cs
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\SecondPlace.xaml.g.cs
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\StartScreenGamemode.xaml.g.cs
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ThirdPlace.xaml.g.cs
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.AssemblyInfoInputs.cache
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.AssemblyInfo.cs
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.dll
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\ref\BikeGates.dll
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.pdb
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.csproj.CoreCompileInputs.cache
+C:\Users\claey\Downloads\BikeGates (2)\BikeGates\BikeGates\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\bin\Debug\netstandard2.0\BikeGates.deps.json
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\bin\Debug\netstandard2.0\BikeGates.dll
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\bin\Debug\netstandard2.0\ref\BikeGates.dll
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\bin\Debug\netstandard2.0\BikeGates.pdb
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.csprojAssemblyReference.cache
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ChoiceGamemode.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ChoicePlayer.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\CountdownScreen.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndLeaderboard.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndScreenParkour.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndScreenSurvival.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndScreenTimeRace.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\FirstPlace.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\GameScreenParkour.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\GameScreenSurvival.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\GameScreenTimeRace.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\LeaderboardParkour.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ReviewPage.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\SecondPlace.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\StartScreenGamemode.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ThirdPlace.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.AssemblyInfoInputs.cache
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.AssemblyInfo.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.csproj.CoreCompileInputs.cache
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.dll
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\ref\BikeGates.dll
+D:\Howest MCT\Sem 3\05 - Project 2\Code\TeamProject_ESPcode\c#\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.pdb
+D:\Werkende Versie\BikeGates\BikeGates\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Werkende Versie\BikeGates\BikeGates\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+D:\Werkende Versie\BikeGates\BikeGates\bin\Debug\netstandard2.0\BikeGates.deps.json
+D:\Werkende Versie\BikeGates\BikeGates\bin\Debug\netstandard2.0\BikeGates.dll
+D:\Werkende Versie\BikeGates\BikeGates\bin\Debug\netstandard2.0\ref\BikeGates.dll
+D:\Werkende Versie\BikeGates\BikeGates\bin\Debug\netstandard2.0\BikeGates.pdb
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.csprojAssemblyReference.cache
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ChoiceGamemode.xaml.g.cs
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ChoicePlayer.xaml.g.cs
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\CountdownScreen.xaml.g.cs
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndLeaderboard.xaml.g.cs
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndScreenParkour.xaml.g.cs
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndScreenSurvival.xaml.g.cs
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndScreenTimeRace.xaml.g.cs
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\FirstPlace.xaml.g.cs
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\GameScreenParkour.xaml.g.cs
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\GameScreenSurvival.xaml.g.cs
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\GameScreenTimeRace.xaml.g.cs
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\LeaderboardParkour.xaml.g.cs
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ReviewPage.xaml.g.cs
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\SecondPlace.xaml.g.cs
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\StartScreenGamemode.xaml.g.cs
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ThirdPlace.xaml.g.cs
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.AssemblyInfoInputs.cache
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.AssemblyInfo.cs
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.csproj.CoreCompileInputs.cache
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.dll
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\ref\BikeGates.dll
+D:\Werkende Versie\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.pdb
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\bin\Debug\netstandard2.0\BikeGates.deps.json
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\bin\Debug\netstandard2.0\BikeGates.dll
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\bin\Debug\netstandard2.0\ref\BikeGates.dll
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\bin\Debug\netstandard2.0\BikeGates.pdb
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.csprojAssemblyReference.cache
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ChoiceGamemode.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ChoicePlayer.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\CountdownScreen.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndLeaderboard.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndScreenParkour.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndScreenSurvival.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\EndScreenTimeRace.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\FirstPlace.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\GameScreenParkour.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\GameScreenSurvival.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\GameScreenTimeRace.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\LeaderboardParkour.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ReviewPage.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\SecondPlace.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\StartScreenGamemode.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\Views\ThirdPlace.xaml.g.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.AssemblyInfoInputs.cache
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.AssemblyInfo.cs
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.csproj.CoreCompileInputs.cache
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.dll
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\ref\BikeGates.dll
+D:\Howest MCT\Sem 3\05 - Project 2\Code\BikeGates\BikeGates\obj\Debug\netstandard2.0\BikeGates.pdb

@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AzureFunctionsVersion>v3</AzureFunctionsVersion>
+    <ApplicationIcon></ApplicationIcon>
+    <UserSecretsId>e7aa4d2b-140b-4552-b98c-698c9d4c7305</UserSecretsId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Remove="C:\Users\claey\.nuget\packages\microsoft.azure.cosmos\3.15.1\contentFiles\any\netstandard2.0\ThirdPartyNotice.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="CaseOnline.Azure.WebJobs.Extensions.Mqtt" Version="2.1.0" />
+    <PackageReference Include="Microsoft.Azure.Cosmos" Version="3.15.1" />
+    <PackageReference Include="Microsoft.Azure.Cosmos.Table" Version="1.0.8" />
+    <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.Storage" Version="3.0.10" />
+    <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="3.0.7" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="host.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="local.settings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>Never</CopyToPublishDirectory>
+    </None>
+  </ItemGroup>
+</Project>
